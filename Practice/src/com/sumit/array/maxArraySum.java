@@ -19,4 +19,14 @@ public class maxArraySum {
 		int max_sum = maxSubArraySum(a, n);
 		System.out.println("Maximum contiguous sum is " + max_sum);
 	}
+	
+	static class Solution {
+	    public int maxSubArray(int[] nums) {
+	    	
+	    	
+	    	
+	    	return 0;
+	        
+	    }
+	}
 }
